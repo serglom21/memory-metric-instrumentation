@@ -1,3 +1,5 @@
+<img width="1630" height="989" alt="Screenshot 2026-09-11 at 1 41 25 PM" src="https://github.com/user-attachments/assets/ffac6170-de97-46ad-b047-a72c0a3c3d74" />
+
 # Memory metric instrumentation
 
 A small media-streaming SPA that demonstrates eight Sentry instrumentation
